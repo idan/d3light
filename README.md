@@ -1,5 +1,7 @@
 # D3light
 
+**A framework for building D3 components with ReactJS**
+
 Both D3 and React want to have their hands on the steering wheel when it comes to the DOM. This leads to one of two approaches:
 
 1. Generate the SVG DOM nodes using D3 in a React "leaf" component. React is effectively blind to the D3-generated DOM nodes.
