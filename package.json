@@ -1,23 +1,26 @@
 {
-  "name": "conduct",
+  "name": "d3light",
   "version": "0.0.1",
-  "description": "D3 primitives for ReactJS",
+  "description": "A framework for building d3 components with ReactJS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/idan/conduct.git"
+    "url": "git+https://github.com/idan/d3light.git"
   },
   "keywords": [
-    "reactjs",
-    "d3"
+    "ReactJS",
+    "React",
+    "D3",
+    "visualization",
+    "datavis"
   ],
   "author": "Idan Gazit <idan@gazit.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/idan/conduct/issues"
+    "url": "https://github.com/idan/d3light/issues"
   },
-  "homepage": "https://github.com/idan/conduct#readme"
+  "homepage": "https://github.com/idan/d3light#readme"
 }
